@@ -1,21 +1,3 @@
-Şifre Güvenlik Değerlendirme Projesi
-
-Bu proje, kullanıcıların oluşturdukları şifrelerin güvenlik seviyesini değerlendirmek amacıyla geliştirilmiştir. Projede, kullanıcının girdiği şifre belirli kriterlere göre değerlendirilir ve bir güvenlik seviyesi belirlenir. Bu sayede kullanıcılar, oluşturdukları şifrenin ne kadar güvenli olduğunu anlayabilir ve gerekli önlemleri alabilirler.
-
-Proje, aşağıdaki kriterlere dayanarak şifre güvenliğini değerlendirir:
-
-- Şifre uzunluğu: En az 12 karakter uzunluğunda olmalı.
-- Büyük harf ve küçük harf: Hem büyük hem de küçük harf içermeli.
-- Rakam: En az bir rakam içermeli.
-- Özel karakter: En az bir özel karakter içermeli (örneğin: !@#$%^&*()-_=+[]{};:,.<>/?`~).
-
 Proje, kullanıcının girdiği şifreyi işlememekte veya saklamamaktadır. Şifre sadece geçici olarak değerlendirme için kullanılır ve hiçbir şekilde kaydedilmez veya paylaşılmaz.
 
-Bu proje, kullanıcıların şifrelerinin güvenliği konusunda bilinçlenmelerine yardımcı olmayı amaçlamaktadır. Kullanıcılar, oluşturdukları şifrenin güvenlik seviyesine göre geri bildirim alarak daha güvenli şifreler oluşturabilirler.
-
 Unutmayın, bu proje kullanıcıların şifrelerini koruma veya ele geçirme amacıyla geliştirilmemiştir. Kullanıcıların şifrelerini güvenli tutmak için gerekli önlemleri almaları ve iyi güvenlik uygulamalarını takip etmeleri önemlidir.
-
-Projenin kaynak kodları ve daha fazla bilgiye aşağıdaki GitHub deposundan erişebilirsiniz: [https://github.com/Cortexiphann/password-security-checker.git]
-
-Güvenli şifreler oluşturmak ve dijital güvenliğimizi sağlamak için bu projenin kullanıcılarımıza yardımcı olmasını umuyorum.
-
