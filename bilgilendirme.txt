@@ -17,5 +17,5 @@ Unutmayın, bu proje kullanıcıların şifrelerini koruma veya ele geçirme ama
 
 Projenin kaynak kodları ve daha fazla bilgiye aşağıdaki GitHub deposundan erişebilirsiniz: [https://github.com/Cortexiphann/password-security-checker.git]
 
-Güvenli şifreler oluşturmak ve dijital güvenliğimizi sağlamak için bu projenin kullanıcılarımıza yardımcı olmasını umuyoruz.
+Güvenli şifreler oluşturmak ve dijital güvenliğimizi sağlamak için bu projenin kullanıcılarımıza yardımcı olmasını umuyorum.
 
