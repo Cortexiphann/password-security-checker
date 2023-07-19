@@ -1,3 +1,4 @@
+#FurkanFilikci
 def rate_password(password):
     score = 0
 
