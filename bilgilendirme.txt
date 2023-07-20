@@ -1,3 +1,5 @@
-Proje, kullanıcının girdiği şifreyi işlememekte veya saklamamaktadır. Şifre sadece geçici olarak değerlendirme için kullanılır ve hiçbir şekilde kaydedilmez veya paylaşılmaz.
+Proje, kullanıcının girdiği şifreyi işlememekte veya saklamamaktadır. 
+Şifre sadece geçici olarak değerlendirme için kullanılır ve hiçbir şekilde kaydedilmez veya paylaşılmaz.
 
-Unutmayın, bu proje kullanıcıların şifrelerini koruma veya ele geçirme amacıyla geliştirilmemiştir. Kullanıcıların şifrelerini güvenli tutmak için gerekli önlemleri almaları ve iyi güvenlik uygulamalarını takip etmeleri önemlidir.
+Unutmayın, bu proje kullanıcıların şifrelerini koruma veya ele geçirme amacıyla geliştirilmemiştir. 
+Kullanıcıların şifrelerini güvenli tutmak için gerekli önlemleri almaları ve iyi güvenlik uygulamalarını takip etmeleri önemlidir.
