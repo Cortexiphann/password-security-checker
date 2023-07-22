@@ -31,7 +31,13 @@ def evaluate_password_security(password):
     else:
         return "Parola güvenli."
 
-password = input("Parolanızı girin: ")
+while True:
+    password = input("Parolanızı girin (Çıkmak için 'q' tuşuna basın): ")
 
-result = evaluate_password_security(password)
-print(result)
+    if password.lower() == "q":
+        print("Çıkış yapılıyor...")
+        break
+
+    result = evaluate_password_security(password)
+    print(result)
+
